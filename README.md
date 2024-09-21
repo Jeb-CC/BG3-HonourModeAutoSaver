@@ -1,5 +1,6 @@
 # Baldur's Gate 3 Honour Made Automatic Save Backup Script
 A script that will automatically backup your Baldur's Gate 3 Honour Mode saves.
+![Example of Usage](ScriptExample.png?raw=true "Example of Usage")
 
 I am aware other scripts like this exist already, but I wanted to make one according to my own taste.
 
