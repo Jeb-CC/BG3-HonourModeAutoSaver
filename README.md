@@ -59,5 +59,5 @@ To do this, you ask Windows to start audit logging the start of new processes. Y
 11. OK that, then go to the Actions tab, add a New action.
 12. Set the Action to "Start a program". The Program/script should be: ```C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe```
 13. Set the "Add arguments (optional):" to the following, ensuring you change it to reflect wherever you have stored your version of the script.
-```PowerShell -file 'C:\Users\Jeb_CC\Documents\My Games\Backups\Bg3\HonourMadeAutoSave.ps1'```
+```PowerShell -file 'C:\Users\Jeb_CC\Documents\My Games\Backups\Bg3\HonourModeAutoSave.ps1'```
 14. OK that. Run BG3. If set up correctly, after you get through the launcher, PowerShell should run with the script you have specified.
