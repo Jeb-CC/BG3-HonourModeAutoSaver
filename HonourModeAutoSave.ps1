@@ -16,7 +16,7 @@ if ($apiVulkan -eq $true) {
 }
 
 #Alert that the script is running.
-Write-Host "HonourMadeAutoSave.ps1 is now running."
+Write-Host "HonourModeAutoSave.ps1 is now running."
 
 #This initial short timer is necessary as it waits for BG3 to launch fully, otherwise the script may not detect it in time and quit out prematurely.
 Start-Sleep -Seconds 30
